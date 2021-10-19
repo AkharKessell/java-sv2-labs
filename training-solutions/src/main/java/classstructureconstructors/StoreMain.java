@@ -26,11 +26,11 @@ public class StoreMain {
         System.out.println(store01.getProduct() + " / " + store01.getStock() + " db");
         System.out.println(store02.getProduct() + " / " + store02.getStock() + " db");
 
-        System.out.println("Mennyit küldünk az első termékekből?" + " / " + store01.getProduct());
+        System.out.println("Mennyit küldünk az első termékből?" + " / " + store01.getProduct());
         volume = scanner.nextInt();
         store01.sent(volume);
 
-        System.out.println("Mennyit küldünk a második termékekből?" + " / " + store02.getProduct());
+        System.out.println("Mennyit küldünk a második termékből?" + " / " + store02.getProduct());
         volume = scanner.nextInt();
         store02.sent(volume);
 
