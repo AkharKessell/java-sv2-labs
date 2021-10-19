@@ -1,4 +1,4 @@
-package classstructureio; //refined
+package src.main.java.classstructureio;
 
 import java.util.Scanner;
 

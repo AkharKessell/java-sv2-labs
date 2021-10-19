@@ -1,4 +1,4 @@
-package intromaven;
+package src.main.java.intromaven;
 
 public class HelloWorld {
     public static void main(String[] args) {

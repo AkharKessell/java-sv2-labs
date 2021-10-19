@@ -1,4 +1,4 @@
-package introgit;
+package src.main.java.introgit;
 
 public class HelloGit {
     public static void main(String[] args) {

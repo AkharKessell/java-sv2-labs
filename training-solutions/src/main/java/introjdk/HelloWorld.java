@@ -1,4 +1,4 @@
-package introjdk;
+package src.main.java.introjdk;
 
 public class HelloWorld {
 
