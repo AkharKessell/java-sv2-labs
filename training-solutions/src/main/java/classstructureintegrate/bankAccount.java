@@ -11,12 +11,13 @@ public class bankAccount {
         this.balance = balance;
     }
     public void deposit(int amount) {
-        balance += amount;
+        this.balance += amount;
     }
     public void withdraw(int amount) {
-        balance -= amount;
+        this.balance -= amount;
     }
+
     public String getInfo() {
-        return owner + " /" + accountNumber + "/: " + balance + " Ft";
+        return this.owner + " /" + this.accountNumber + "/: " + this.balance + " Huf";
     }
 }

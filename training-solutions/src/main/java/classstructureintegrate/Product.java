@@ -10,15 +10,17 @@ public class Product {
         this.price = price;
     }
     public String getName() {
-        return name;
+        return this.name;
     }
     public int getPrice() {
-        return price;
+        return this.price;
     }
+
     public void incPrice (int value) {
-        price += value;
+        this.price += value;
     }
+
     public void decreasePrice (int value) {
-        price -= value;
+        this.price -= value;
     }
 }
