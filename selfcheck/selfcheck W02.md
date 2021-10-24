@@ -6,13 +6,13 @@ a bonyolultabb típusokat fogjátok alapszinten megismerni.
 ## A nyelv építőkövei
 
 * [X] [Kódolási konvenciók videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709797-kodolasi-konvenciok)
-* [ ] Kódolási konvenciók gyakorlati feladat
+* [X] Kódolási konvenciók gyakorlati feladat
 * [X] [Literálok és lokális változók videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709851-literalok-es-lokalis-valtozok)
-* [ ] Literálok és lokális változók gyakorlati feladat
+* [X] Literálok és lokális változók gyakorlati feladat
 * [X] [Kifejezések és utasítások videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709849-kifejezesek-es-utasitasok)
 * [ ] Kifejezések és utasítások gyakorlati feladat
 * [X] [Csomagok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709796-csomagok)
-* [ ] Csomagok gyakorlati feladat
+* [X] Csomagok gyakorlati feladat
 * [X] [Java API videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709757-java-api)
 * [ ] Java API gyakorlati feladat
 * [X] [JAR állomány videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709835-jar-allomany)
