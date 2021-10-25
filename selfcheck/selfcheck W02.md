@@ -14,15 +14,15 @@ a bonyolultabb típusokat fogjátok alapszinten megismerni.
 * [X] [Csomagok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709796-csomagok)
 * [X] Csomagok gyakorlati feladat
 * [X] [Java API videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709757-java-api)
-* [ ] Java API gyakorlati feladat
+* [X] Java API gyakorlati feladat
 * [X] [JAR állomány videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709835-jar-allomany)
-* [ ] JAR állomány gyakorlati feladat
+* [X] JAR állomány gyakorlati feladat
 * [X] [Szöveges típus](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709758-szoveges-tipus)
 * [ ] Szöveges típus gyakorlati feladat
 * [X] [Sortörés kezelése](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28188842-sortores-kezelese)
-* [ ] Sortörés kezelése gyakorlati feladat
+* [X] Sortörés kezelése gyakorlati feladat
 * [X] [Dátum és időkezelés alapok](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709798-datum-es-idokezeles-alapok)
-* [ ] Dátum és időkezelés alapok gyakorlati feladat
+* [X] Dátum és időkezelés alapok gyakorlati feladat
 * [X] [Bevezetés a vezérlési szerkezetekbe](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709782-bevezetes-a-vezerlesi-szerkezetekbe)
 * [ ] Bevezetés a vezérlési szerkezetekbe gyakorlati feladat
 
@@ -54,10 +54,10 @@ a bonyolultabb típusokat fogjátok alapszinten megismerni.
 ## Konzultációk
 
 * [X] 2021-10-18 konzultáció részvétel/videó
-* [ ] 2021-10-18 konzultáció gyakorlati feladat
+* [X] 2021-10-18 konzultáció gyakorlati feladat
 * [X] 2021-10-19 konzultáció részvétel/videó
-* [ ] 2021-10-19 konzultáció gyakorlati feladat
+* [X] 2021-10-19 konzultáció gyakorlati feladat
 * [X] 2021-10-21 konzultáció részvétel/videó
-* [ ] 2021-10-21 konzultáció gyakorlati feladat
+* [X] 2021-10-21 konzultáció gyakorlati feladat
 * [X] 2021-10-22 konzultáció részvétel/videó
 * [ ] 2021-10-22 konzultáció gyakorlati feladat
