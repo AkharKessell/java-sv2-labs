@@ -9,9 +9,14 @@ public class QualifierMain {
         System.out.println("Kérek egy számot");
         int number = scanner.nextInt();
 
-        if (number <=100 ) {
+        if (number <=99 ) {
             System.out.println("Száz, vagy kissebb");
-        }else {
+        }
+        else if( number == 100)
+        {
+            System.out.println("Száz");}
+        else
+        {
             System.out.println("Száz vagy nagyobb");
         }
     }
