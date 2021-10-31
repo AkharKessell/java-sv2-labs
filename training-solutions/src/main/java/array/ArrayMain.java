@@ -1,4 +1,4 @@
-package src.main.java.array;
+package main.java.array;
 
 public class ArrayMain {
     public static void main(String[] args) {
