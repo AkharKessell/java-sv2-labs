@@ -1,15 +1,41 @@
-package src.main.java.introcontrol;
+package main.java.introcontrol;
+
+import java.util.Scanner;
 
 public class BoatRental {
-    public static void main(String[] args) {
-        System.out.println("Under Construction :) ");
+    public static void main(String[] args){
+        int numberOfBoats = 3;
+        int remainingPlaces = 10;
+
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("How many people?");
+        int people = scanner.nextInt();
+
+        if (people > 3) {
+            System.out.println("boat taken: 3. boat (5 left).");
+            people -= 5;
+            remainingPlaces -= 5;
+            numberOfBoats--;
+        }
+        if (people > 2) {
+            System.out.println("boat taken: 2. boat (3 left).");
+            people -= 3;
+            remainingPlaces -= 3;
+            numberOfBoats--;
+        }
+        if (people > 0) {
+            System.out.println("boat taken: 1. boat (2 left).");
+            people -= 2;
+            remainingPlaces -= 2;
+            numberOfBoats--;
+        }
+
+        if (people > 0) {
+            System.out.println("no more room for " + people + " ppl.");
+        } else {
+            System.out.println("remaining: " + remainingPlaces + " places.");
+            System.out.println("remaining boat: " + numberOfBoats + " boat.");
+        }
     }
 }
-//Gyakorlati feladat - Csónakok
-//Egy csónakkölcsönzőben van 3 csónak. Az elsőben 5-en, a másodikban 3-an, a harmadikban 2-en férnek el. Amikor jön egy csoport, és szeretne csónakot bérelni, akkor úgy kell kiadni nekik a csónakokat, hogy miután kihajóznak, a lehető legtöbb hely és csónak maradjon bent egy következő csoportnak.
-//
-//Például ha 6-an jönnek, akkor az öt- és kétszemélyes csónakot kell kiadni nekik, mert így még akár egy 3 fős csapat is ki tud hajózni.
-//
-//Ha 5-en jönnek, akkor az 5 személyes csónakot kell kiadni nekik, mert így 2 csónak összesen 5 hellyel marad bent.
-//
-//Készíts egy BoatRental osztályt, ahol a main() metódusban bekéred az érkező csapat létszámát, majd írd ki, hogy melyik csónakokat vitték el és még hány fő mehet utánuk! Ha többen voltak, mint 10, akkor jelezd, hogy maradtak még a parton!
