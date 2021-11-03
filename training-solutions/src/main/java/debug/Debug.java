@@ -6,6 +6,7 @@ import java.util.List;
 public class Debug {
     public static void main(String[] args) {
         List<String> fruits = Arrays.asList("alma", "körte", "barack", "szilva");
+        //first block
         String peach = fruits.get(2);
         for (int i = 0; i < fruits.size(); i++) {
             String fruit = fruits.get(i);
@@ -13,6 +14,7 @@ public class Debug {
                 System.out.println(fruit.substring(0, 2));
             }
         }
+        // second block
         int[] numbers = {3, 7, -2, 1, -4, 5};
         numbers[2] = -10;
         for (int i = 0; i < numbers.length; i++) {
