@@ -8,8 +8,8 @@ public class TaxMain {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Net price:");
         double price = scanner.nextDouble();
-        System.out.println("Net: " + price);
-        System.out.println("Tax: " + calc.tax(price));
-        System.out.println("Gross :" + calc.priceWithTax(price));
+        System.out.println("Net: " + price + ".- HUF");
+        System.out.println("Tax: " + calc.tax(price) + ".- HUF");
+        System.out.println("Gross :" + calc.priceWithTax(price) + ".- HUF");
     }
 }
