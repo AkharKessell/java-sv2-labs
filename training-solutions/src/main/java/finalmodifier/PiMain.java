@@ -7,16 +7,16 @@ public class PiMain {
         Scanner scanner = new Scanner(System.in);
 
         CircleCalculator circle = new CircleCalculator();
-        System.out.println("Circle diameter:");
+        System.out.println("Circle radius: ");
         double r = scanner.nextDouble();
         System.out.println("Circle circumference: " + circle.calculatePerimeter(r));
         System.out.println("Circle area: " + circle.calculateArea(r));
         System.out.println();
 
         CylinderCalculatorBasedOnCircle cylinder = new CylinderCalculatorBasedOnCircle();
-        System.out.println("Adja meg a henger átmérőjét:");
+        System.out.println("Cylinder radius: ");
         r = scanner.nextDouble();
-        System.out.println("Adja meg a henger magasságát:");
+        System.out.println("Cylinder height: ");
         double h = scanner.nextDouble();
         System.out.println("Cylinder volume: " + cylinder.calculateVolume(r, h));
         System.out.println("Cylinder surface: " + cylinder.calculateSurfaceArea(r, h));
