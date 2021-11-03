@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Sequence {
     public static void main(String[] args) {
-        List<Integer> elements = new ArrayList(Arrays.asList(2, 4));
+        List<Integer> elements = new ArrayList(Arrays.asList(1, 2));
             for (int i = 0; i < 5; i++) {
                 elements.add(elements.get(i) * elements.get(i+1));
         }
