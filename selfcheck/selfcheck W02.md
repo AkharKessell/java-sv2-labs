@@ -37,19 +37,19 @@ a bonyolultabb típusokat fogjátok alapszinten megismerni.
 * [x] [Tömbök kezelése](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709801-tombok-kezelese)
 * [X] Tömbök kezelése gyakorlati feladat
 * [x] [Lista](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709852-lista)
-* [ ] Lista gyakorlati feladat
+* [X] Lista gyakorlati feladat
 * [x] [Lista létrehozása](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993631-lista-letrehozasa)
-* [ ] Lista létrehozása gyakorlati feladat
+* [X] Lista létrehozása gyakorlati feladat
 * [x] [Ciklusok fajtái](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993677-ciklusok-fajtai)
-* [ ] Ciklusok fajtái gyakorlati feladat
+* [X] Ciklusok fajtái gyakorlati feladat
 * [x] [Módosítás bejáráskor](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993685-modositas-bejaraskor)
-* [ ] Módosítás bejáráskor gyakorlati feladat
+* [X] Módosítás bejáráskor gyakorlati feladat
 * [x] [Debug](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709799-debug)
-* [ ] Debug gyakorlati feladat
+* [X] Debug gyakorlati feladat
 * [x] [Konstans értékek használata](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709785-konstans-ertekek-hasznalata)
-* [ ] Konstans értékek használata gyakorlati feladat
+* [X] Konstans értékek használata gyakorlati feladat
 * [x] [Math és Random osztály](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709760-math-es-random-osztaly)
-* [ ] Math és Random osztály gyakorlati feladat
+* [X] Math és Random osztály gyakorlati feladat
 
 ## Konzultációk
 
