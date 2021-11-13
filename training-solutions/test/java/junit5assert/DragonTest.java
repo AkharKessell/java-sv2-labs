@@ -1,6 +1,5 @@
 package junit5assert;
 
-import main.java.junit5assert.Dragon;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

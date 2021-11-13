@@ -1,4 +1,4 @@
-package main.java.junit5assert;
+package junit5assert;
 
 public class Dragon {
     private String name;
