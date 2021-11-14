@@ -1,4 +1,4 @@
-package src.main.java.stringmethods.filename;
+package main.java.stringmethods.filename;
 
 public class FileNameManipulatorMain {
     public static void main(String[] args) {
