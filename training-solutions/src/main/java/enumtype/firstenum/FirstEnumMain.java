@@ -1,4 +1,4 @@
-package src.main.java.enumtype.firstenum;
+package enumtype.firstenum;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package src.main.java.enumtype.university;
+package enumtype.university;
 
 public class UniversityMain {
     public static void main(String[] args) {

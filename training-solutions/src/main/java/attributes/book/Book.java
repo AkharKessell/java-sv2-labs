@@ -1,4 +1,4 @@
-package src.main.java.attributes.book;
+package attributes.book;
 
 public class Book {
     private String title;

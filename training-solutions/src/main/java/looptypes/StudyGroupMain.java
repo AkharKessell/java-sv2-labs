@@ -1,4 +1,4 @@
-package src.main.java.looptypes;
+package looptypes;
 
 import java.util.Arrays;
 import java.util.List;

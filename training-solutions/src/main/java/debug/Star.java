@@ -1,4 +1,4 @@
-package src.main.java.debug;
+package debug;
 
 public class Star {
     public void writeStars(int[] numbers) {

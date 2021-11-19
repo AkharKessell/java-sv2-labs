@@ -1,4 +1,4 @@
-package src.main.java.stringtype;
+package stringtype;
 import java.util.Scanner;
 public class Registration {
 

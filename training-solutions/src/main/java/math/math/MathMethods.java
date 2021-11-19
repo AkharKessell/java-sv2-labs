@@ -1,4 +1,4 @@
-package src.main.java.math.math;
+package math.math;
 
 public class MathMethods {
     public static void main(String[] args) {

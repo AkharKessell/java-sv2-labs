@@ -1,4 +1,4 @@
-package src.main.java.debug;
+package debug;
 
 import java.util.Arrays;
 import java.util.List;

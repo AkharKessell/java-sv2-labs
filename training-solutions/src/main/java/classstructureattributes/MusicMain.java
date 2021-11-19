@@ -1,6 +1,4 @@
-package src.main.java.classstructureattributes;
-
-import java.sql.SQLOutput;
+package classstructureattributes;
 
 public class MusicMain {
 

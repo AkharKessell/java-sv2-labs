@@ -1,4 +1,4 @@
-package src.main.java.classstructureintegrate;
+package classstructureintegrate;
 
 public class bankAccount {
     private String accountNumber;

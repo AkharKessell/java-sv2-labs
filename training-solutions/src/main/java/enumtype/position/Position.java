@@ -1,4 +1,4 @@
-package src.main.java.enumtype.position;
+package enumtype.position;
 
 public enum Position {
     CHIEFCLOUDOFFICER(35000, "Free travel in the clouds"),

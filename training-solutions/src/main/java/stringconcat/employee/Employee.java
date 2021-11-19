@@ -1,4 +1,4 @@
-package main.java.stringconcat.employee;
+package stringconcat.employee;
 
 public class Employee {
     protected String name;

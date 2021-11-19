@@ -1,4 +1,4 @@
-package src.main.java.looptypes;
+package looptypes;
 
 public class SumMain {
     public static void main(String[] args) {

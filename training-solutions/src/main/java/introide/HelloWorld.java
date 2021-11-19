@@ -1,4 +1,4 @@
-package src.main.java.introide;
+package introide;
 
 public class HelloWorld {
     public static void main(String[] args) {

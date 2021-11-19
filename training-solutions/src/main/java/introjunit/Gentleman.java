@@ -1,4 +1,4 @@
-package main.java.introjunit;
+package introjunit;
 
 public class Gentleman {
 

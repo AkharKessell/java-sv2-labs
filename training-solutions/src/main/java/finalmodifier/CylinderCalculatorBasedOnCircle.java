@@ -1,4 +1,4 @@
-package src.main.java.finalmodifier;
+package finalmodifier;
 
 public class CylinderCalculatorBasedOnCircle {
     CircleCalculator circleCalculator = new CircleCalculator();

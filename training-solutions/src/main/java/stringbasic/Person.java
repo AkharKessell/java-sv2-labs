@@ -1,4 +1,4 @@
-package src.main.java.stringbasic;
+package stringbasic;
 
 public class Person {
 

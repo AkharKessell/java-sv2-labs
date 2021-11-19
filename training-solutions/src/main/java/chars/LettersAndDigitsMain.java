@@ -1,4 +1,4 @@
-package src.main.java.chars;
+package chars;
 
 public class LettersAndDigitsMain {
     public static void main(String[] args) {

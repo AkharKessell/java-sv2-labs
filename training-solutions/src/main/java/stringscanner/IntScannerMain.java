@@ -1,4 +1,4 @@
-package src.main.java.stringscanner;
+package stringscanner;
 
 public class IntScannerMain {
     public static void main(String[] args) {

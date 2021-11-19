@@ -1,4 +1,4 @@
-package src.main.java.stringconcat.nameconcat;
+package stringconcat.nameconcat;
 
 public class NameMain {
     public static void main(String[] args) {

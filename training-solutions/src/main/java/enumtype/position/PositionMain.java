@@ -1,4 +1,4 @@
-package src.main.java.enumtype.position;
+package enumtype.position;
 
 public class PositionMain {
     public static void main(String[] args) {

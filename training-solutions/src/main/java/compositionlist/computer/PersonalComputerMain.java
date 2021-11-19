@@ -1,4 +1,4 @@
-package src.main.java.compositionlist.computer;
+package compositionlist.computer;
 
 public class PersonalComputerMain {
     public static void main(String[] args) {

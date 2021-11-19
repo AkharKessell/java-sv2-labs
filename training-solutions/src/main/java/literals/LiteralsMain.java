@@ -1,4 +1,4 @@
-package src.main.java.literals;
+package literals;
 
 public class LiteralsMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.main.java.finalmodifier;
+package finalmodifier;
 
 public class CircleCalculator {
     public static final double PI = Math.PI;

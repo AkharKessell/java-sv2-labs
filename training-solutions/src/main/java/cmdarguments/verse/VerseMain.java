@@ -1,4 +1,4 @@
-package src.main.java.cmdarguments.verse;
+package cmdarguments.verse;
 
 public class VerseMain {
     public static void main(String[] args) {

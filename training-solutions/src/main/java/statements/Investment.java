@@ -1,4 +1,4 @@
-package src.main.java.statements;
+package statements;
 
 public class Investment {
 

@@ -1,4 +1,4 @@
-package src.main.java.compositionlist;
+package compositionlist;
 
 import java.util.ArrayList;
 import java.util.List;

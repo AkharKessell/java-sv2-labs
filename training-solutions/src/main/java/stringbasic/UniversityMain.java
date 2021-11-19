@@ -1,4 +1,4 @@
-package src.main.java.stringbasic;
+package stringbasic;
 
 public class UniversityMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.main.java.conversions;
+package conversions;
 
 public class TooBigNumber {
 

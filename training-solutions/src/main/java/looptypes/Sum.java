@@ -1,4 +1,4 @@
-package src.main.java.looptypes;
+package looptypes;
 
 public class Sum {
     public void printSums(int[] numbers) {

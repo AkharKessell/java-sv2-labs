@@ -1,4 +1,4 @@
-package src.main.java.classstructureconstructors;
+package classstructureconstructors;
 
 public class Book {
     private String author;

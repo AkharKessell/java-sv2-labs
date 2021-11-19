@@ -1,4 +1,4 @@
-package src.main.java.classstructuremethods;
+package classstructuremethods;
 
 import java.util.Scanner;
 

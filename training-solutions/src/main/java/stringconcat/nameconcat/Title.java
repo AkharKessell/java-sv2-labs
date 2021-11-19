@@ -1,4 +1,4 @@
-package src.main.java.stringconcat.nameconcat;
+package stringconcat.nameconcat;
 
 public enum Title {
     MR("Mr."), MRS("Mrs."), DR("dr."), DRS("Dr.");

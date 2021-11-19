@@ -1,4 +1,4 @@
-package src.main.java.classstructuremethods;
+package classstructuremethods;
 
 public class Client {
 

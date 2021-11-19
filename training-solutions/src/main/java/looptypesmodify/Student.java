@@ -1,4 +1,4 @@
-package src.main.java.looptypesmodify;
+package looptypesmodify;
 
 public class Student {
     private String name;

@@ -1,4 +1,4 @@
-package src.main.java.numbers;
+package numbers;
 
 import java.util.Scanner;
 

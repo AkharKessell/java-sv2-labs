@@ -1,4 +1,4 @@
-package src.main.java.chars;
+package chars;
 
 public class LettersAndDigits {
     public String printLetterOrDigit(String text) {

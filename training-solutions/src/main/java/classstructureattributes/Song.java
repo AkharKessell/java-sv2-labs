@@ -1,4 +1,4 @@
-package src.main.java.classstructureattributes;
+package classstructureattributes;
 
 public class Song {
     String band;

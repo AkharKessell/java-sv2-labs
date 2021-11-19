@@ -1,4 +1,4 @@
-package src.main.java.stringtype;
+package stringtype;
 public class UservValidator {
 
     public boolean isValidUsername(String username) {

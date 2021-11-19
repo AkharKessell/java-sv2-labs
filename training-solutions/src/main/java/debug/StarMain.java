@@ -1,4 +1,4 @@
-package src.main.java.debug;
+package debug;
 
 public class StarMain {
     public static void main(String[] args) {

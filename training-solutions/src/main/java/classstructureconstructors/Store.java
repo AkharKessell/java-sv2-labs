@@ -1,4 +1,4 @@
-package src.main.java.classstructureconstructors;
+package classstructureconstructors;
 
 public class Store {
     private String product;

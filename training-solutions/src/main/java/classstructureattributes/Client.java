@@ -1,7 +1,7 @@
-package src.main.java.classstructureattributes;
+package classstructureattributes;
 
 public class Client {
     String name;
-    int YOB;
+    int yOb;
     String address;
 }

@@ -1,4 +1,4 @@
-package src.main.java.stringbuilder.airport;
+package stringbuilder.airport;
 
 import java.util.ArrayList;
 import java.util.List;

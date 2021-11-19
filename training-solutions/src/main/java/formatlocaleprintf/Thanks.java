@@ -1,4 +1,4 @@
-package src.main.java.formatlocaleprintf;
+package formatlocaleprintf;
 
 import java.util.Arrays;
 import java.util.List;

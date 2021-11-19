@@ -1,4 +1,4 @@
-package src.main.java.compositionlist;
+package compositionlist;
 
 public class CapsulesMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.main.java.intromethods.registration;
+package intromethods.registration;
 
 import java.time.LocalDate;
 

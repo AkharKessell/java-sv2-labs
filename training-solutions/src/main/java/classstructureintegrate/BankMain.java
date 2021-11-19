@@ -1,4 +1,4 @@
-package src.main.java.classstructureintegrate;
+package classstructureintegrate;
 
 import java.util.Scanner;
 

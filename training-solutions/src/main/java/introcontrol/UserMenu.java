@@ -1,4 +1,4 @@
-package src.main.java.introcontrol;
+package introcontrol;
 
 import java.util.Scanner;
 

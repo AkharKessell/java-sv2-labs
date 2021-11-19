@@ -1,4 +1,4 @@
-package src.main.java.finalmodifier;
+package finalmodifier;
 
 import java.util.Scanner;
 

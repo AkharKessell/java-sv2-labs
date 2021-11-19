@@ -1,4 +1,4 @@
-package main.java.array;
+package array;
 
 public class ArrayHandler {
     public void addIndexToNumber ( int[] source) {

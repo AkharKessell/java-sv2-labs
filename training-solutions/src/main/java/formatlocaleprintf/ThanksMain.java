@@ -1,4 +1,4 @@
-package src.main.java.formatlocaleprintf;
+package formatlocaleprintf;
 
 public class ThanksMain {
     public static void main(String[] args) {

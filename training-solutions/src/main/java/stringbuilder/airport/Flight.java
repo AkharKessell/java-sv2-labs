@@ -1,4 +1,4 @@
-package src.main.java.stringbuilder.airport;
+package stringbuilder.airport;
 
 public class Flight {
     private String flightNumber;

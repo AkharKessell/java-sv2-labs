@@ -1,4 +1,4 @@
-package src.main.java.composition.realestate;
+package composition.realestate;
 
 public class RealEstate {
     private String title;

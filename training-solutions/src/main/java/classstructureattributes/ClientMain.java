@@ -1,4 +1,4 @@
-package src.main.java.classstructureattributes;
+package classstructureattributes;
 
 import java.util.Scanner;
 
@@ -14,8 +14,8 @@ public class ClientMain {
         client.address = systemInScanner.nextLine();
 
         System.out.println("Az Ön születési éve?");
-        client.YOB = systemInScanner.nextInt();
+        client.yOb = systemInScanner.nextInt();
 
-        System.out.println("#Név:"+client.name + " #Született:"+client.YOB + " #Cím:" + client.address);
+        System.out.println("#Név:"+client.name + " #Született:"+client.yOb + " #Cím:" + client.address);
     }
 }

@@ -1,4 +1,4 @@
-package src.main.java.mathproblems;
+package mathproblems;
 
 public class DivisionMain {
     public static void main(String[] args) {

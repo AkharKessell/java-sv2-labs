@@ -1,4 +1,4 @@
-package src.main.java.references.dogs;
+package references.dogs;
 
 public class Dog {
 

@@ -1,4 +1,4 @@
-package src.main.java.operators.operators;
+package operators.operators;
 
 public class HeadingNorthMain {
     public static void main(String[] args) {

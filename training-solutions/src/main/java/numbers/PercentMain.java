@@ -1,4 +1,4 @@
-package src.main.java.numbers;
+package numbers;
 
 public class PercentMain {
     public static void main(String[] args) {

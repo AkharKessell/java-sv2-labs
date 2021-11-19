@@ -1,4 +1,4 @@
-package main.java.aslist;
+package aslist;
 
 import java.util.Arrays;
 import java.util.List;

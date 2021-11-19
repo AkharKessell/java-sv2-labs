@@ -1,4 +1,4 @@
-package src.main.java.references.parameters;
+package references.parameters;
 
 public class ReferencesMain {
     public static void main(String[] args) {

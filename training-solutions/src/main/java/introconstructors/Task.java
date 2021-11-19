@@ -1,4 +1,4 @@
-package src.main.java.introconstructors;
+package introconstructors;
 
 import java.time.LocalDateTime;
 

@@ -1,4 +1,4 @@
-package src.main.java.stringbasic.characters;
+package stringbasic.characters;
 
 import java.util.Scanner;
 

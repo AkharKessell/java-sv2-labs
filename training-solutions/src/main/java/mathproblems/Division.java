@@ -1,4 +1,4 @@
-package src.main.java.mathproblems;
+package mathproblems;
 
 public class Division {
     public void getDivisors(int number) {

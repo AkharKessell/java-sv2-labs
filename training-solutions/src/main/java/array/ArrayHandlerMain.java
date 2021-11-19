@@ -1,4 +1,4 @@
-package main.java.array;
+package array;
 
 public class ArrayHandlerMain {
     public static void main(String[] args) {

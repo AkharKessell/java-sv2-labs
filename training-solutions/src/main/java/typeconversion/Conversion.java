@@ -1,4 +1,4 @@
-package src.main.java.typeconversion;
+package typeconversion;
 
 public class Conversion {
 

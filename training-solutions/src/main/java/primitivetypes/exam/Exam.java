@@ -1,4 +1,4 @@
-package src.main.java.primitivetypes.exam;
+package primitivetypes.exam;
 
 import java.util.ArrayList;
 import java.util.List;

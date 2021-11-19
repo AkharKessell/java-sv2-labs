@@ -1,4 +1,4 @@
-package src.main.java.statements;
+package statements;
 
 import java.util.Scanner;
 

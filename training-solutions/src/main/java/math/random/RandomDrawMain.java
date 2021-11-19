@@ -1,4 +1,4 @@
-package src.main.java.math.random;
+package math.random;
 
 public class RandomDrawMain {
     public static void main(String[] args) {

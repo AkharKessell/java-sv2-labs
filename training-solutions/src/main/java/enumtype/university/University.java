@@ -1,4 +1,4 @@
-package src.main.java.enumtype.university;
+package enumtype.university;
 
 public enum University {
     ÁTE("University of Veterinary Medicine"),BCE("Corvinus University"),BGE("Budapest Business School"),

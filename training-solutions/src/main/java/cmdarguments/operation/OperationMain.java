@@ -1,4 +1,4 @@
-package src.main.java.cmdarguments.operation;
+package cmdarguments.operation;
 
 import java.util.Scanner;
 

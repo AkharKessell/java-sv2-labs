@@ -1,4 +1,4 @@
-package src.main.java.attributes.bill;
+package attributes.bill;
 
 public class BillItemMain {
     public static void main(String[] args) {

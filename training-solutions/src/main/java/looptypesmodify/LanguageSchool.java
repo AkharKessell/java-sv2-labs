@@ -1,4 +1,4 @@
-package src.main.java.looptypesmodify;
+package looptypesmodify;
 
 import java.util.ArrayList;
 import java.util.List;

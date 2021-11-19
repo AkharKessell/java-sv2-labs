@@ -1,4 +1,4 @@
-package main.java.junit5;
+package junit5;
 
 public class Gentleman {
 

@@ -1,4 +1,4 @@
-package src.main.java.compositionlist.computer;
+package compositionlist.computer;
 
 public class Cpu {
     private String model;

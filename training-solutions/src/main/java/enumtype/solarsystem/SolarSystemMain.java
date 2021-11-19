@@ -1,4 +1,4 @@
-package src.main.java.enumtype.solarsystem;
+package enumtype.solarsystem;
 
 import java.util.Arrays;
 

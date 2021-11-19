@@ -1,4 +1,4 @@
-package src.main.java.finalmodifier;
+package finalmodifier;
 
 public class CylinderCalculator {
     public double calculateVolume(double r, double h) {

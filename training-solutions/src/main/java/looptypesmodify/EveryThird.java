@@ -1,4 +1,4 @@
-package src.main.java.looptypesmodify;
+package looptypesmodify;
 
 public class EveryThird {
     public void changeToZero(int [] numbers){

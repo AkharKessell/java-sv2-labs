@@ -1,4 +1,4 @@
-package src.main.java.cmdarguments.flowers;
+package cmdarguments.flowers;
 
 public class CmdMain {
     public static void main(String[] args) {

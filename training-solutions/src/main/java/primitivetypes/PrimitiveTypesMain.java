@@ -1,4 +1,4 @@
-package src.main.java.primitivetypes;
+package primitivetypes;
 
 public class PrimitiveTypesMain {
     public static void main(String[] args) {

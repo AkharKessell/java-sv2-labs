@@ -1,4 +1,4 @@
-package src.main.java.finalmodifier;
+package finalmodifier;
 
 import java.util.Arrays;
 import java.util.List;

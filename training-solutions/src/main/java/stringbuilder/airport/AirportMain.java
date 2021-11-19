@@ -1,4 +1,4 @@
-package src.main.java.stringbuilder.airport;
+package stringbuilder.airport;
 
 public class AirportMain {
     public static void main(String[] args) {
