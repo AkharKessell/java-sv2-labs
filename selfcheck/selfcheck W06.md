@@ -5,33 +5,33 @@ Ezen a héten a kivétel- és fájlkezelést fogjátok alapszinten megismerni.
 ## Bevezetés a kivétel- és fájlkezelésbe
 
 * [X] [Első kivétel videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177669-elso-kivetel)
-* [ ] Első kivétel gyakorlati feladat
+* [X] Első kivétel gyakorlati feladat
 * [X] [További kivételek videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177698-tovabbi-kivetelek)
-* [ ] További kivételek gyakorlati feladat
+* [X] További kivételek gyakorlati feladat
 * [X] [Kivétel a hívási láncban videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177718-kivetel-a-hivasi-lancban)
-* [ ] Kivétel a hívási láncban gyakorlati feladat
+* [X] Kivétel a hívási láncban gyakorlati feladat
 * [X] [Kivétel kezelése videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177738-kivetel-kezelese)
-* [ ] Kivétel kezelése gyakorlati feladat
+* [X] Kivétel kezelése gyakorlati feladat
 * [X] [Kivétel kezelése a hívási láncban videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177746-kivetel-kezelese-a-hivasi-lancban)
-* [ ] Kivétel kezelése a hívási láncban gyakorlati feladat
+* [X] Kivétel kezelése a hívási láncban gyakorlati feladat
 * [X] [Kivétel eldobása videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177790-kivetel-eldobasa)
-* [ ] Kivétel eldobása gyakorlati feladat
+* [X] Kivétel eldobása gyakorlati feladat
 * [X] [Kivételkezelés tesztelése JUnit 5 használatával videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177887-kivetelkezeles-tesztelese-junit-5-hasznalataval)
-* [ ] Kivételkezelés tesztelése JUnit 5 használatával gyakorlati feladat
+* [X] Kivételkezelés tesztelése JUnit 5 használatával gyakorlati feladat
 * [X] [Fájl beolvasása videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177973-fajl-beolvasasa)
-* [ ] Fájl beolvasása gyakorlati feladat
+* [X] Fájl beolvasása gyakorlati feladat
 * [X] [Kötelezően kezelendő kivétel a hívási láncban videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177984-kotelezoen-kezelendo-kivetel-a-hivasi-lancban)
-* [ ] Kötelezően kezelendő kivétel a hívási láncban gyakorlati feladat
+* [X] Kötelezően kezelendő kivétel a hívási láncban gyakorlati feladat
 * [X] [Kivétel becsomagolása videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28178010-kivetel-becsomagolasa)
-* [ ] Kivétel becsomagolása gyakorlati feladat
+* [X] Kivétel becsomagolása gyakorlati feladat
 * [X] [Fájlbeolvasás tesztelése JUnit 5 használatával videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28178029-fajlbeolvasas-tesztelese-junit-5-hasznalataval)
-* [ ] Fájlbeolvasás tesztelése JUnit 5 használatával gyakorlati feladat
+* [X] Fájlbeolvasás tesztelése JUnit 5 használatával gyakorlati feladat
 * [X] [Fájl írása videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28178041-fajl-irasa)
-* [ ] Fájl írása gyakorlati feladat
+* [X] Fájl írása gyakorlati feladat
 * [X] [Fájl írásának tesztelése JUnit 5 használatával videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28178063-fajl-irasanak-tesztelese-junit-5-hasznalataval)
-* [ ] Fájl írásának tesztelése JUnit 5 használatával gyakorlati feladat
+* [X] Fájl írásának tesztelése JUnit 5 használatával gyakorlati feladat
 * [X] [A finally ág videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28178086-a-finally-ag)
-* [ ] A finally ág gyakorlati feladat
+* [X] A finally ág gyakorlati feladat
 
 ## Konzultációk
 
