@@ -8,7 +8,7 @@ Ezen a héten nagyrészt ismétlés következik, néhány újabb ismerettel: a p
 * [x] [Összegzés tétele videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/16980666-osszegzes-tetele)
 * [X] Összegzés tétele gyakorlati feladat
 * [x] [Számlálás tétele videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/16980667-szamlalas-tetele)
-* [ ] Számlálás tétele gyakorlati feladat
+* [X] Számlálás tétele gyakorlati feladat
 * [x] [Szélsőérték keresés tétele videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/16980670-szelsoertek-kereses-tetele)
 * [ ] Szélsőérték keresés tétele gyakorlati feladat
 * [x] [Eldöntés tétele videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/16980673-eldontes-tetele)
@@ -53,10 +53,10 @@ Ezen a héten nagyrészt ismétlés következik, néhány újabb ismerettel: a p
 ## Konzultációk
 
 * [x] 2021-11-22 konzultáció részvétel/videó
-* [ ] 2021-11-22 konzultáció gyakorlati feladat
+* [X] 2021-11-22 konzultáció gyakorlati feladat
 * [X] 2021-11-23 konzultáció részvétel/videó
-* [ ] 2021-11-23 konzultáció gyakorlati feladat
+* [X] 2021-11-23 konzultáció gyakorlati feladat
 * [X] 2021-11-25 konzultáció részvétel/videó
-* [ ] 2021-11-25 konzultáció gyakorlati feladat
+* [X] 2021-11-25 konzultáció gyakorlati feladat
 * [x] 2021-11-26 konzultáció részvétel/videó
-* [ ] 2021-11-26 konzultáció gyakorlati feladat
+* [X] 2021-11-26 konzultáció gyakorlati feladat
