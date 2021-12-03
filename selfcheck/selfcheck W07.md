@@ -23,15 +23,15 @@ Ezen a héten nagyrészt ismétlés következik, néhány újabb ismerettel: a p
 ## Attribútumok és metódusok
 
 * [X] [Immutable objektumok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525738-immutable-objektumok)
-* [ ] Immutable objektumok gyakorlati feladat
+* [X] Immutable objektumok gyakorlati feladat
 * [X] [JavaBeans objektumok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525757-javabeans-objektumok)
-* [ ] JavaBeans objektumok gyakorlati feladat
+* [X] JavaBeans objektumok gyakorlati feladat
 * [X] [Metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525772-metodusok)
-* [ ] Metódusok gyakorlati feladat
+* [X] Metódusok gyakorlati feladat
 * [X] [Értékmásolás szerinti paraméterátadás videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525776-ertekmasolas-szerinti-parameteratadas)
-* [ ] Értékmásolás szerinti paraméterátadás gyakorlati feladat
+* [X] Értékmásolás szerinti paraméterátadás gyakorlati feladat
 * [X] [Metódus paraméterek és visszatérési értékek videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525904-metodus-parameterek-es-visszateresi-ertekek)
-* [ ] Metódus paraméterek és visszatérési értékek gyakorlati feladat
+* [X] Metódus paraméterek és visszatérési értékek gyakorlati feladat
 * [X] [Változó hosszúságú paraméterlista videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525916-valtozo-hosszusagu-parameterlista)
 * [ ] Változó hosszúságú paraméterlista gyakorlati feladat
 * [X] [Metódus hívások láncolása videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525922-metodus-hivasok-lancolasa)
