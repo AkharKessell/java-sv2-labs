@@ -1,6 +1,5 @@
 package introjunit;
 
-import main.java.introjunit.Gentleman;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
