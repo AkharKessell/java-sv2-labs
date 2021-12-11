@@ -12,11 +12,11 @@ fogtok megismerkedni.
 * [X] [Statikus és dinamikus típus videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29556759-statikus-es-dinamikus-tipus)
 * [X] Statikus és dinamikus típus gyakorlati feladat
 * [X] [Object ősosztály videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29592426-object-ososztaly)
-* [ ] Object ősosztály gyakorlati feladat
+* [X] Object ősosztály gyakorlati feladat
 * [X] [Attribútumok öröklődése videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29592433-attributumok-oroklodese)
-* [ ] Attribútumok öröklődése gyakorlati feladat
+* [X] Attribútumok öröklődése gyakorlati feladat
 * [X] [Metódusok öröklődése videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29592443-metodusok-oroklodese)
-* [ ] Metódusok öröklődése gyakorlati feladat
+* [X] Metódusok öröklődése gyakorlati feladat
 
 ## Absztrakt osztályok és interfészek
 
