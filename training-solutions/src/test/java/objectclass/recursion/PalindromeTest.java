@@ -1,6 +1,7 @@
-package recursion;
+package objectclass.recursion;
 
 import org.junit.jupiter.api.Test;
+import recursion.Palindrome;
 
 import static org.junit.jupiter.api.Assertions.*;
 

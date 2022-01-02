@@ -1,6 +1,7 @@
-package recursion;
+package objectclass.recursion;
 
 import org.junit.jupiter.api.Test;
+import recursion.Numbers;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

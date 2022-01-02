@@ -1,4 +1,4 @@
-package src.main.java.composition.person;
+package composition.person;
 
 public class Address {
     private String country;
