@@ -17,7 +17,7 @@ class LongWordTest {
 
     @Test
     void testWrongFile() {
-        LongWord longWord = new LongWord(Paths.get("src/test/resources/longwdfeeord.txt"));
+        LongWord longWord = new LongWord(Paths.get("longsword.txt"));
         IllegalArgumentException ioe = assertThrows(IllegalArgumentException.class,
                 () -> longWord.getLongWord());
         assertEquals("Can't read file.", ioe.getMessage());
