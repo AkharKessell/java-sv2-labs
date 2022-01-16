@@ -1,4 +1,4 @@
-package operators.operators;
+package operators;
 
 public class Operators {
     //Írd ki a konzolra egy általad tetszőlegesen választott egész szám kettes számrendszer-beli alakját!
