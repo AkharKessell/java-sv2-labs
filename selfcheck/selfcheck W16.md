@@ -45,12 +45,12 @@ bemutatottakat kell megcsinálni a videóval együtt!
 ## Konzultációk
 
 * [X] 2022-02-07 konzultáció részvétel/videó
-* [ ] 2022-02-07 konzultáció gyakorlati feladat
+* [X] 2022-02-07 konzultáció gyakorlati feladat
 * [X] 2022-02-08 konzultáció részvétel/videó
-* [ ] 2022-02-08 konzultáció gyakorlati feladat
+* [X] 2022-02-08 konzultáció gyakorlati feladat
 * [X] 2022-02-09 konzultáció részvétel/videó
-* [ ] 2022-02-09 konzultáció gyakorlati feladat
+* [X] 2022-02-09 konzultáció gyakorlati feladat
 * [X] 2022-02-10 konzultáció részvétel/videó
-* [ ] 2022-02-10 konzultáció gyakorlati feladat
+* [X] 2022-02-10 konzultáció gyakorlati feladat
 * [X] 2022-02-11 konzultáció részvétel/videó
-* [ ] 2022-02-11 konzultáció gyakorlati feladat
+* [X] 2022-02-11 konzultáció gyakorlati feladat
