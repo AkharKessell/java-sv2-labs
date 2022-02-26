@@ -12,22 +12,43 @@ import java.util.List;
 
 public class EmployeesDAO {
 
-    private final DataSource dataSource;
+    private DataSource dataSource;
 
-    public EmployeesDAO(DataSource dataSource) {
+    public EmployeesDAO (DataSource dataSource) {
         this.dataSource = dataSource;
     }
 
     public long createEmployee(String name) {
-        try (
-                Connection conn = (Connection) dataSource.getConnection();
-                PreparedStatement stmt = conn.prepareStatement("insert into employees(emp_name) values(?)", Statement.RETURN_GENERATED_KEYS)) {
+        try (Connection conn = (Connection) dataSource.getConnection();
+             PreparedStatement stmt =
+                     conn.prepareStatement("insert into employees (emp_name) values (?)", Statement.RETURN_GENERATED_KEYS)) {
             stmt.setString(1, name);
             stmt.executeUpdate();
 
             return getIdByStatement(stmt);
         } catch (SQLException se) {
             throw new IllegalStateException("Cannot Insert");
+        }
+    }
+
+    public void createEmployees(List<String>names) {
+        try (Connection conn = (Connection) dataSource.getConnection()) {
+            conn.setAutoCommit(false);
+            try (PreparedStatement stmt = conn.prepareStatement("insert into employees(emp_name) values (?)")){
+                for(String name : names){
+                    if(name.startsWith("x")){
+                        throw new IllegalArgumentException("invalid Name");
+                    }
+                    stmt.setString(1,name);
+                    stmt.executeUpdate();
+                }
+                conn.commit();
+            }
+            catch (IllegalArgumentException iae){
+                conn.rollback();
+            }
+        } catch (SQLException sqlException){
+            throw new IllegalStateException("Cannot Isnsert", sqlException);
         }
     }
 

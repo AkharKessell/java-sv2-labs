@@ -7,6 +7,8 @@ import org.mariadb.jdbc.MariaDbDataSource;
 
 import java.sql.SQLException;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 
@@ -25,10 +27,10 @@ public class EmployeesDaoTest {
         } catch (SQLException e) {
             e.printStackTrace();
 
-//            Flyway flyway = Flyway.configure().dataSource(dataSource).load();
-//
-//            flyway.clean();
-//            flyway.migrate();
+            Flyway flyway = Flyway.configure().dataSource(dataSource).load();
+
+            flyway.clean();
+            flyway.migrate();
 
             employeesDAO = new EmployeesDAO(dataSource);
         }
@@ -48,5 +50,18 @@ public class EmployeesDaoTest {
         System.out.println(id);
         String name = employeesDAO.findEmployeeNameById(id);
         assertEquals("Jane Doe", name);
+    }
+
+    @Test
+    public void createEmployees() {
+        employeesDAO.createEmployees(Arrays.asList("jack Doe","john Doe","Jane Doe"));
+        List<String>names = employeesDAO.listEmployeeNames();
+        assertEquals(Arrays.asList("jack Doe","john Doe","Jane Doe"), names);
+    }
+    @Test
+    public void createEmployeesRollback() {
+        employeesDAO.createEmployees(Arrays.asList("jack Doe","john Doe","xJane Doe"));
+        List<String>names = employeesDAO.listEmployeeNames();
+        assertEquals(Collections.emptyList(),names);
     }
 }
