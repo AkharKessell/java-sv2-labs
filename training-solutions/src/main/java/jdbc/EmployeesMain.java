@@ -18,13 +18,13 @@ public class EmployeesMain {
             e.printStackTrace();
         }
 
-//        Flyway flyway = Flyway.configure().dataSource(dataSource).load();
-//
-//        flyway.clean();
-//        flyway.migrate();
+        Flyway flyway = Flyway.configure().dataSource(dataSource).load();
+
+        flyway.clean();
+        flyway.migrate();
 
         EmployeesDAO employeesDAO = new EmployeesDAO(dataSource);
-        employeesDAO.createEmployee("Jane Doe");
+        employeesDAO.createEmployee("Jack Doe");
 
         List<String> names = employeesDAO.listEmployeeNames();
         System.out.println(names);
