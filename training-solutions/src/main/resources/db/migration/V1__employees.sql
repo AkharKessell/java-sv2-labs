@@ -1,1 +1,5 @@
-CREATE TABLE Employees(ID int auto_increment, emp_name varchar(255), constraint pk_employees PRIMARY KEY (ID));
+CREATE TABLE Employees(
+ID int auto_increment,
+emp_name varchar(255),
+PRIMARY KEY (ID)
+);

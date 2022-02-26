@@ -25,8 +25,9 @@ public class EmployeesDaoTest {
             e.printStackTrace();
         }
 
-        Flyway flyway = Flyway.configure().dataSource("jdbc:mariadb://localhost:3306/employees?useUnicode=true", "employees", "employees").load();
+        Flyway flyway = Flyway.configure().dataSource(dataSource).load();
 
+//        Flyway flyway = Flyway.configure().dataSource("jdbc:mariadb://localhost:3306/employees?useUnicode=true", "employees", "employees").load();
         flyway.clean();
         flyway.migrate();
 
@@ -38,5 +39,12 @@ public class EmployeesDaoTest {
         employeesDao.createEmployees("John Doe");
         List<String> names = employeesDao.listEmployeesNames();
         assertEquals(List.of("John Doe"), names);
+    }
+    @Test
+    public void testFindById() {
+        long id = employeesDao.createEmployees("John Doe");
+        System.out.println(id);
+        String name = employeesDao.findEmployeeNameById(id);
+        assertEquals("John Doe", name);
     }
 }

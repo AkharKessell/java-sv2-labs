@@ -1,8 +1,12 @@
 package jdbc.spring;
 
 import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.support.GeneratedKeyHolder;
+import org.springframework.jdbc.support.KeyHolder;
 
 import javax.sql.DataSource;
+import java.sql.PreparedStatement;
+import java.sql.Statement;
 import java.util.List;
 
 public class EmployeesDao {
@@ -13,11 +17,26 @@ public class EmployeesDao {
         jdbcTemplate = new JdbcTemplate(dataSource);
     }
 
-    public void createEmployees(String name){
-        jdbcTemplate.update("INSERT INTO Employees (emp_name) VALUES (?)", name);
+    public long createEmployees(String name) {
+        KeyHolder holder = new GeneratedKeyHolder();
+
+        jdbcTemplate.update(con -> {
+            PreparedStatement ps = con.prepareStatement("insert into employees(emp_name) values (?)",
+                    Statement.RETURN_GENERATED_KEYS);
+            ps.setString(1, name);
+            return ps;
+        }, holder );
+
+        return holder.getKey().longValue();
     }
+
     public List<String> listEmployeesNames(){
-        return jdbcTemplate.query("select emp_name from employees",
+        return jdbcTemplate.query("SELECT emp_name FROM employees",
         (rs, rowNum) -> rs.getString("emp_name"));
+    }
+
+    public String findEmployeeNameById(long id){
+        return jdbcTemplate.queryForObject("SELECT emp_name FROM employees WHERE id = ?",
+                (rs, rowNum) -> rs.getString("emp_name"),id);
     }
 }
